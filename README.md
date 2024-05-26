@@ -4,7 +4,7 @@
 
 - <b>C++</b>
   - [Login/Registration page](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Least Squares Regression Approximation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Least Squares Regression Approximation](https://github.com/LiJackieS/Linear-Algebra)
 - <b>Python</b>
   - [Number Guessing Game](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Word Guessing Game](https://github.com/joshmadakor1/Jwipe.PowerShell)
