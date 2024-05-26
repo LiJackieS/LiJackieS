@@ -15,6 +15,7 @@
 - <b>Python</b>
   - [Python Essential Training](https://www.linkedin.com/learning/certificates/475e83f4fd1c21f9afd9621a11d6ee5d3293dbb379040e7af8d09ba87ef55b96)
 
+<h2> 🔭 I’m currently working on a python program that allows a secure exchange between two parties through Eliptical Curve Diffie-Hellman key exchanhge.
 
 <h2> 🤳 Connect with me:</h2>
 
