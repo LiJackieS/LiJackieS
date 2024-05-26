@@ -3,7 +3,7 @@
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>C++</b>
-  - [Login/Registration page](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Login/Registration page](https://github.com/LiJackieS/Registration-login-Page/blob/main/README.md)
   - [Least Squares Regression Approximation](https://github.com/LiJackieS/Linear-Algebra)
 - <b>Python</b>
   - [Number Guessing Game](https://github.com/joshmadakor1/Sentinel-Lab)
