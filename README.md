@@ -4,11 +4,18 @@
 
 - <b>C++</b>
   - [Login/Registration page](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Least Squares Regression Approximation] ()
+  - [Least Squares Regression Approximation](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
   - [Number Guessing Game](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Word Guessing Game](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  
+
+
+<h2>📄 Certifications:</h2>
+
+- <b>Python</b>
+  - [Python Essential Training](https://www.linkedin.com/learning/certificates/475e83f4fd1c21f9afd9621a11d6ee5d3293dbb379040e7af8d09ba87ef55b96)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 
