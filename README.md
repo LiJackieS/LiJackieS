@@ -4,7 +4,7 @@
 
 - <b>C++</b>
   - [Login/Registration page](https://github.com/LiJackieS/Registration-login-Page/blob/main/README.md)
-  - [Least Squares Regression Approximation](https://github.com/LiJackieS/Linear-Algebra)
+  - [Least Squares Linear Regression](https://github.com/LiJackieS/Linear-Algebra)
 - <b>Python</b>
   - [Number Guessing Game](https://github.com/LiJackieS/Python)
   - [Word Guessing Game](https://github.com/LiJackieS/Python)
