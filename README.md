@@ -3,13 +3,13 @@
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>C++</b>
-  - [Login/Registration page](https://github.com/LiJackieS/Registration-login-Page/blob/main/README.md)
   - [Least Squares Linear Regression](https://github.com/LiJackieS/Linear-Algebra)
+  - [Login/Registration page](https://github.com/LiJackieS/Registration-login-Page/blob/main/README.md)
 - <b>Python</b>
+  - [Eliptical Curve Diffie-Hellman Key exchange](https://github.com/LiJackieS/Cryptography)
   - [Number Guessing Game](https://github.com/LiJackieS/Python)
   - [Word Guessing Game](https://github.com/LiJackieS/Python)
-  - [Eliptical Curve Diffie-Hellman Key exchange](https://github.com/LiJackieS/Cryptography)
-
+    
 
 <h2>📄 Certifications:</h2>
 
