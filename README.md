@@ -13,9 +13,10 @@
 
 <h2>📄 Certifications:</h2>
 
-- <b>Python</b>
+- <b></b>
   - [Python Essential Training](https://www.linkedin.com/learning/certificates/475e83f4fd1c21f9afd9621a11d6ee5d3293dbb379040e7af8d09ba87ef55b96)
-
+  - [Machine Learning with Python: Foundations](https://www.linkedin.com/learning/certificates/1930f8d2f0fc617c483d408d89102911714ee48356af08917249f99413480f37)
+  - [J.P. Morgan - Software Engineering Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_sYRvScXjwe4XdDNHY_1719445155716_completion_certificate.pdf)
 <h2> 🔭 
 
 <h2> 🤳 Connect with me:</h2>
