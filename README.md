@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jackie! <br/><a href="https://github.com/LiJackieS">Aspiring Machine Learning Engineer</a>, <a href="https://www.linkedin.com/in/LiJackieS/"></a>,
+<h1>Hi, I'm Jackie! <br/><a href="https://github.com/LiJackieS">Machine Learning Ethusiast</a>, <a href="https://www.linkedin.com/in/LiJackieS/"></a>,
 
 <h2>👨‍💻 Programming Projects:</h2>
 
