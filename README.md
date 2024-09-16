@@ -7,8 +7,9 @@
   - [Login/Registration page](https://github.com/LiJackieS/Registration-login-Page/blob/main/README.md)
 - <b>Python</b>
   - [Eliptical Curve Diffie-Hellman Key exchange](https://github.com/LiJackieS/Cryptography)
-  - [Number Guessing Game](https://github.com/LiJackieS/Python)
-  - [Word Guessing Game](https://github.com/LiJackieS/Python)
+  - [Sentiment Classifier for Amazon Reviews](https://github.com/LiJackieS/Sentiment-Classifier-for-Amazon-Reviews)
+- <b>Work with LLM's</b>
+  - [AI Support Llama 3.1 NIM](https://github.com/LiJackieS/AI_Support_Llama_3.1_NIM)
     
 
 <h2>📄 Certifications:</h2>
