@@ -1,10 +1,14 @@
 <h1>Hi, I'm Jackie! <br/><a href="https://github.com/LiJackieS">Machine Learning Ethusiast</a>, <a href="https://www.linkedin.com/in/LiJackieS/"></a>,
 
 <h2>👨‍💻 Programming Projects:</h2>
-  - [Least Squares Linear Regression(C++)](https://github.com/LiJackieS/Linear-Algebra)
-  - [Login/Registration page(C++)](https://github.com/LiJackieS/Registration-login-Page/blob/main/README.md)
-  - [Eliptical Curve Diffie-Hellman Key exchange(Python)](https://github.com/LiJackieS/Cryptography)
-  - [Sentiment Classifier for Amazon Reviews(Python)](https://github.com/LiJackieS/Sentiment-Classifier-for-Amazon-Reviews)
+
+- <b>C++</b>
+  - [Least Squares Linear Regression](https://github.com/LiJackieS/Linear-Algebra)
+  - [Login/Registration page](https://github.com/LiJackieS/Registration-login-Page/blob/main/README.md)
+- <b>Python</b>
+  - [Eliptical Curve Diffie-Hellman Key exchange](https://github.com/LiJackieS/Cryptography)
+  - [Sentiment Classifier for Amazon Reviews](https://github.com/LiJackieS/Sentiment-Classifier-for-Amazon-Reviews)
+- <b>Work with LLM's</b>
   - [AI Support Llama 3.1 NIM](https://github.com/LiJackieS/AI_Support_Llama_3.1_NIM)
     
 
