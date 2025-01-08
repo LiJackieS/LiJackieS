@@ -5,7 +5,6 @@
 - <b>C++</b>
   - [Monte Carlo Gpu Acceleration](https://github.com/LiJackieS/MonteCarloSimulation)
   - [Least Squares Linear Regression](https://github.com/LiJackieS/Linear-Algebra)
-  - [Login/Registration page](https://github.com/LiJackieS/Registration-login-Page/blob/main/README.md)
 - <b>Python</b>
   - [Sentiment Classifier for Amazon Reviews](https://github.com/LiJackieS/Sentiment-Classifier-for-Amazon-Reviews)
   - [Eliptical Curve Diffie-Hellman Key exchange](https://github.com/LiJackieS/Cryptography)
