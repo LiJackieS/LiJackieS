@@ -3,11 +3,12 @@
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>C++</b>
+  - [Monte Carlo Gpu Acceleration](https://github.com/LiJackieS/MonteCarloSimulation)
   - [Least Squares Linear Regression](https://github.com/LiJackieS/Linear-Algebra)
   - [Login/Registration page](https://github.com/LiJackieS/Registration-login-Page/blob/main/README.md)
 - <b>Python</b>
-  - [Eliptical Curve Diffie-Hellman Key exchange](https://github.com/LiJackieS/Cryptography)
   - [Sentiment Classifier for Amazon Reviews](https://github.com/LiJackieS/Sentiment-Classifier-for-Amazon-Reviews)
+  - [Eliptical Curve Diffie-Hellman Key exchange](https://github.com/LiJackieS/Cryptography)
 - <b>Work with LLM's</b>
   - [AI Support Llama 3.1 NIM](https://github.com/LiJackieS/AI_Support_Llama_3.1_NIM)
     
